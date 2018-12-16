@@ -1,0 +1,11 @@
+
+Driver that converts Korean to English
+
+Takes in CLI input or a file
+Parses the Korean into some ascii or form that can be processed
+Maps to English using certain grammatical constructs
+Classes for types of conjugation rules, holders for parts of speech
+Best effort parsing to try and return an accurate translation
+Do something with unicode
+
+hanyong.cpp, and then units of vocab to slowly integrate
